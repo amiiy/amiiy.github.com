@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-blog-index-js","path":"/fr/","result":{"data":{"site":{"siteMetadata":{"title":"Overreacted","description":"Personal blog by Amir Imani. I know nothing."}},"allMarkdownRemark":{"edges":[]}},"pageContext":{"langKey":"fr"}}}
+{"componentChunkName":"component---src-templates-blog-index-js","path":"/fr/","result":{"data":{"site":{"siteMetadata":{"title":"Blog","description":"Personal blog by Amir Imani. I know nothing."}},"allMarkdownRemark":{"edges":[]}},"pageContext":{"langKey":"fr"}}}
